@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content:center;
+}
+h1{
+    color: 2px solid black;
+
+}
+input{
+    height: 30px;
+    border-color:white;
+    border-radius: 10px;
+    color: silver;
+    margin-bottom: 10px;
+
+}
+.fa-user{
+    font-size: 50px;
+    margin-top: 10px;
+}
+.box1{
+height: 350px;
+width:300px;
+border-radius: 10px;
+background-color: rgb(188, 231, 248);
+text-align: center;
+}
+.text{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: -110px;
+}
+.box2{
+height: 370px;
+width:320px;
+border-radius: 10px;
+background-color: rgb(54, 54, 228);
+text-align: center;
+align-items: center;
+padding: 50px;
+}
+.box3{
+    height: 500px;
+width:430px;
+border-radius: 10px;
+background-color: rgb(179, 114, 240);
+text-align: center;
+align-items: center;
+padding:50px;
+
+}
